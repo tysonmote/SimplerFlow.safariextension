@@ -1,0 +1,125 @@
+#flowdock-influx div.app-toolbar {
+  min-width: 299px !important;
+}
+
+#flowdock-influx div.influx_item {
+  min-height: 40px !important;
+}
+
+#flowdock-influx div.influx_item .header {
+  padding: 10px 10px 0 55px !important;
+}
+
+#flowdock-influx div.influx_item .content {
+  margin-bottom: 3px !important;
+  padding-left: 55px !important;
+  padding-right: 20px !important;
+}
+
+#flowdock-influx div.influx_item .content h2.title {
+  font-size: 13px !important;
+  margin: 2px 0 8px !important;
+}
+
+#flowdock-influx .sub_header .timestamp {
+  display: none !important;
+}
+
+#flowdock-influx div.influx_item .header > .icon {
+  height: 28px !important;
+  width: 28px !important;
+  top: 12px !important;
+  left: 12px !important;
+}
+
+#flowdock-influx div.influx_item .header .gravatar,
+#flowdock-influx div.influx_item .header .type {
+  height: 28px !important;
+  width: 28px !important;
+  background-size: 22px 22px !important;
+}
+
+#flowdock-influx div.influx_item .header .gravatar .type,
+#flowdock-influx div.influx_item .header .with_gravatar .type {
+  height: 12px !important;
+  width: 12px !important;
+  background-size: 12px 12px !important;
+  top: 15px !important;
+  left: 15px !important;
+}
+
+#flowdock-influx .commits {
+  padding-bottom: 6px !important;
+}
+
+#flowdock-influx .more-commits {
+  margin-top: 0 !important;
+}
+
+#flowdock-influx .influx_item .commit-list li .avatar,
+#flowdock-influx .item .commit-list li .avatar,
+#flowdock-influx .results-line .commit-list li .avatar,
+#flowdock-flowser .influx_item .commit-list li .avatar,
+#flowdock-flowser .item .commit-list li .avatar,
+#flowdock-flowser .results-line .commit-list li .avatar,
+#flowdock-chat .influx_item .commit-list li .avatar,
+#flowdock-chat .item .commit-list li .avatar,
+#flowdock-chat .results-line .commit-list li .avatar {
+  display:none !important;
+}
+
+#flowdock-influx .influx_item .commit-list li, #flowdock-influx .influx_item .story-list li,
+#flowdock-influx .item .commit-list li, #flowdock-influx .item .story-list li,
+#flowdock-influx .results-line .commit-list li, #flowdock-influx .results-line .story-list li,
+#flowdock-flowser .influx_item .commit-list li, #flowdock-flowser .influx_item .story-list li,
+#flowdock-flowser .item .commit-list li, #flowdock-flowser .item .story-list li,
+#flowdock-flowser .results-line .commit-list li, #flowdock-flowser .results-line .story-list li,
+#flowdock-chat .influx_item .commit-list li, #flowdock-chat .influx_item .story-list li,
+#flowdock-chat .item .commit-list li, #flowdock-chat .item .story-list li,
+#flowdock-chat .results-line .commit-list li, #flowdock-chat .results-line .story-list li {
+  line-height: 18px !important;
+  margin-bottom: 2px !important;
+}
+
+#flowdock-chat #chat_app_lines .chat_app_history_info,
+#flowdock-chat #chat_app_lines .chat_line {
+  font-size: 12px !important;
+  line-height: 1.3 !important;
+}
+
+#flowdock-influx .chat_line_content pre, #flowdock-flowser .chat_line_content pre, #flowdock-chat .chat_line_content pre {
+  padding: 5px 9px !important;
+}
+
+#flowdock-influx .chat_line_content pre, #flowdock-flowser .chat_line_content pre, #flowdock-chat .chat_line_content pre,
+#flowdock-influx .chat_line_content pre code, #flowdock-flowser .chat_line_content pre code, #flowdock-chat .chat_line_content pre code {
+  background-color: #fafafa !important;
+}
+
+#flowdock-chat #chat_app_lines .chat_app_history_info pre code,
+#flowdock-chat #chat_app_lines .chat_line pre code {
+  font-size: 12px !important;
+  font-family: "Menlo", "Consolas", "Constantina", "Lucida Console", monospace !important;
+  line-height: 1.5 !important;
+}
+
+#flowdock-chat .chat_line .nick {
+  padding-top: 0.5em !important;
+}
+
+#flowdock-chat .chat_line .chat_line_content {
+  padding: 0.5em 7px 0.5em 100px !important;
+}
+
+#flowdock-chat .chat_line.chat_topline, #flowdock-chat .chat_line.separator {
+  background-color: #eee !important;
+  border-bottom: none !important;
+  padding: 0.3em 0 !important;
+  font-color: #999 !important;
+  text-shadow: none !important;
+}
+
+#flowdock-chat .chat_line .timestamp {
+  top: -1em !important;
+}
+
