@@ -21,10 +21,6 @@
   margin: 2px 0 8px !important;
 }
 
-#flowdock-influx .sub_header .timestamp {
-  display: none !important;
-}
-
 #flowdock-influx div.influx_item .header > .icon {
   height: 28px !important;
   width: 28px !important;
